@@ -6,11 +6,11 @@ printf("Enter the age of the person: ");
 scanf("%d",&a);
 if (a>=18)
 {
-printf("Eigibal for voting");
+printf("Eigible for voting");
 }
 else
 {
-printf("Not eligibal for voting\n");
+printf("Not eligible for voting\n");
 }	
 return 0;
 }
